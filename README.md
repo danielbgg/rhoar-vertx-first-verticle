@@ -1,5 +1,5 @@
-# RHOAR Vertex First Verticle
-Vertex First Verticle Microservice - RHOAR course
+# RHOAR Vert.x First Verticle
+Vert.x First Verticle Microservice - RHOAR course
 
 ## Run Application
 1st method
